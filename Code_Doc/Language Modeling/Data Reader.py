@@ -1,3 +1,7 @@
+# Python Deep Learning
+# Data Reader
+# Author: David Li
+
 from __future__ import print_function, division
 
 import codecs
