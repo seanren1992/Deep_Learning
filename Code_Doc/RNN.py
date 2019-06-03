@@ -1,3 +1,7 @@
+# Python Deep Learning
+# RNN
+# Author: David Li
+
 import numpy as np
 
 
