@@ -1,3 +1,7 @@
+# Python Deep Learning
+# Neural Networks 02
+# Author: David Li
+
 import matplotlib.pyplot as plt
 import numpy
 from matplotlib.colors import ListedColormap
