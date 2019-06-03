@@ -1,4 +1,7 @@
-# VGG16
+# Python Deep Learning
+# VGG
+# Author: David Li
+
 from keras.applications.vgg16 import VGG16
 
 vgg16_model = VGG16(include_top=True, weights='imagenet', input_tensor=None, input_shape=None, pooling=None, classes=1000)
