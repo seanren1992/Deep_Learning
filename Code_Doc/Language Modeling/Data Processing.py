@@ -1,4 +1,7 @@
-"""Process text file for language model training."""
+# Python Deep Learning
+# Data Processing
+# Author: David Li
+
 from __future__ import print_function, division
 
 import codecs
