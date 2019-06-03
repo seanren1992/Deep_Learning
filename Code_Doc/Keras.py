@@ -1,3 +1,7 @@
+# Python Deep Learning
+# Keras
+# Author: David Li
+
 from keras.datasets import cifar10
 from keras.layers.core import Dense, Activation
 from keras.models import Sequential
