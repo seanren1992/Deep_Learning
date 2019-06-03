@@ -1,3 +1,7 @@
+# Python Deep Learning
+# MNIST digits with VAE
+# Author: David Li
+
 import matplotlib.pyplot as plt
 from matplotlib.markers import MarkerStyle
 import numpy as np
