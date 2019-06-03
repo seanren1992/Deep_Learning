@@ -1,4 +1,7 @@
-# for reproducibility
+# Python Deep Learning
+# Convolutional Network
+# Author: David Li
+
 from numpy.random import seed
 
 seed(1)
