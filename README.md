@@ -9,7 +9,7 @@
 - **`Naive Bayes`**: Naive Bayes is different from many other machine learning algorithms.
 - **`Unsupervised learning`**: Unsupervised learning is a type of machine learning algorithm used to draw inferences from datasets      consisting of input data without labeled responses.
 - **`K-means`**: K-means is a clustering algorithm that groups the elements of a dataset into k distinct clusters.
-- **`Reinforcement learning`**: Reinforcement. It is about taking suitable action to maximize reward in a particular situation. 
+- **`Reinforcement learning`**: Reinforcement is about taking suitable action to maximize reward in a particular situation. 
 - **`Q-learning`**: Q-learning is an off-policy temporal-difference reinforcement learning algorithm. 
 
 ## Neural Networks
