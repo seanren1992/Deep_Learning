@@ -1,3 +1,7 @@
+# Python Deep Learning
+# MNIST images with GANs and Keras
+# Author: David Li
+
 import matplotlib.pyplot as plt
 import numpy as np
 from keras.datasets import mnist
