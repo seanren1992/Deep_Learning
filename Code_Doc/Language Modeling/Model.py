@@ -1,4 +1,7 @@
-# -*- coding: utf-8 -*-
+# Python Deep Learning
+# Model
+# Author: David Li
+
 from __future__ import print_function, division
 
 import time
