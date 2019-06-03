@@ -1,4 +1,3 @@
-    
 # Python Deep Learning
 # CNN Keras
 # Author: David Li
