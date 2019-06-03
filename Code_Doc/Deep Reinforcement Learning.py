@@ -1,3 +1,7 @@
+# Python Deep Learning
+# Deep Reinforcement Learning
+# Author: David Li
+
 import os
 import pickle
 import random
