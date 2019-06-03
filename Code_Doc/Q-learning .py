@@ -1,3 +1,7 @@
+# Python Deep Learning
+# Q-learning 
+# Author: David Li
+
 import random
 from collections import deque
 
