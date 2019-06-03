@@ -1,3 +1,7 @@
+# Python Deep Learning
+# Machine Learning
+# Author: David Li
+
 import pandas as pd
 
 dataset = pd.read_csv('https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data',
