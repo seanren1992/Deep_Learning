@@ -1,3 +1,8 @@
+    
+# Python Deep Learning
+# CNN Keras
+# Author: David Li
+
 import keras
 from keras.datasets import cifar10
 from keras.layers import Conv2D, MaxPooling2D
