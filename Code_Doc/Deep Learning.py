@@ -2,7 +2,6 @@
 # Deep Learning
 # Author: David Li
 
-
 from keras.datasets import mnist
 from keras.layers.core import Dense, Activation
 from keras.models import Sequential
