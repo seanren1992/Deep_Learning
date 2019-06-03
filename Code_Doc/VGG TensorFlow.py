@@ -1,3 +1,7 @@
+# Python Deep Learning
+# VGG with Keras, PyTorch, and TensorFlow
+# Author: David Li
+
 import os.path
 import cv2  # opencv import
 import numpy as np
