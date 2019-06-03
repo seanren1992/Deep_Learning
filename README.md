@@ -3,7 +3,7 @@
 ## Machine Learning 
 
 - **`Supervised learning`**: Supervised learning algorithms are a class of machine learning algorithms that use previously-labeled data to learn its features, so they can classify similar but unlabeled data.
-- **`Linear and logistic regression`**: Regression algorithms are a type of supervised algorithm that uses features of the input data to predict a value
+- **`Linear and logistic regression`**: Using features of the input data to predict a value
 - **`Support vector machines`**: A support vector machine is a supervised machine learning algorithm that is used for classification. 
 - **`Decision Trees`**: A decision tree creates a classifier in the form of a tree.
 - **`Naive Bayes`**: Naive Bayes is different from many other machine learning algorithms.
