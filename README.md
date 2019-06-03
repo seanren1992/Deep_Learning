@@ -1,0 +1,48 @@
+# Deep Learning
+
+## Machine Learning 
+
+- **`Supervised learning`**: Supervised learning algorithms are a class of machine learning algorithms that use previously-labeled data to learn its features, so they can classify similar but unlabeled data.
+- **`Linear and logistic regression`**: Regression algorithms are a type of supervised algorithm that uses features of the input data to predict a value
+- **`Support vector machines`**: A support vector machine (SVM) is a supervised machine learning algorithm that is mainly used for classification. 
+- **`Decision Trees`**: Another popular supervised algorithm is the decision tree. A decision tree creates a classifier in the form of a tree.
+- **`Naive Bayes`**: Naive Bayes is different from many other machine learning algorithms.
+- **`Unsupervised learning`**: Unsupervised learning is a type of machine learning algorithm used to draw inferences from datasets consisting of input data without labeled responses.
+- **`K-means`**: K-means is a clustering algorithm that groups the elements of a dataset into k distinct clusters.
+- **`Reinforcement learning`**: Reinforcement learning is an area of Machine Learning. Reinforcement. It is about taking suitable action to maximize reward in a particular situation. 
+- **`Q-learning`**: Q-learning is an off-policy temporal-difference reinforcement learning algorithm. 
+
+## Neural Networks
+
+
+
+
+
+## Deep Learning 
+
+
+
+
+
+## Computer Vision 
+
+
+
+
+
+## Recurrent Neural Networks
+
+
+
+
+
+## Reinforcement Learning
+
+
+
+
+
+## Deep Reinforcement Learning
+
+
+
