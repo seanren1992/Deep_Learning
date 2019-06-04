@@ -92,14 +92,37 @@ metrics=['accuracy'], optimizer='sgd')
 
 ## Computer Vision 
 
-**Convolutional layers**
+**Convolutional layers:**
 The convolutional layer is the most important building block of a CNN. It consists of a set of filters (also known as kernels or feature detectors), where each filter is applied across all areas of the input data. A filter is defined by a set of learnable weights. 
 
 ![alt text](https://github.com/David-SF2290/Deep-Learning/blob/master/Graph_Doc/CNN.JPG)
 
 
+**VGG with Keras, PyTorch, and TensorFlow**
+- **Setting the weights parameter:**
+```python
+# VGG16
+from keras.applications.vgg16 import VGG16
+vgg16_model = VGG16(include_top=True, weights='imagenet',
+input_tensor=None, input_shape=None, pooling=None, classes=1000)
+```
+
+```python
+# VGG19
+from keras.applications.vgg19 import VGG19
+vgg19_model = VGG19(include_top=True, weights='imagenet',
+input_tensor=None, input_shape=None, pooling=None, classes=1000)
+```
+
+- **Using a pre-trained model:** 
+```python
+import torchvision.models as models
+model = models.vgg16(pretrained=True)
+```
+
 
 ## Recurrent Neural Networks
+
 
 
 
