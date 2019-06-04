@@ -1,7 +1,5 @@
 # Deep Learning
 
-![alt text](https://github.com/David-SF2290/Deep-Learning/blob/master/Graph_Doc/Machine%20Learning.JPG)
-
 ## Machine Learning 
 
 - **`Supervised learning`**: Supervised learning algorithms are a class of machine learning algorithms that use previously-labeled data to learn its features, so they can classify similar but unlabeled data.
@@ -19,7 +17,8 @@
 A neuron is a mathematical function that takes one or more input values, and outputs a single numerical value
 ![alt text](https://github.com/David-SF2290/Deep-Learning/blob/master/Graph_Doc/Neurons.JPG)
 
-
+A neural network can have an indefinite number of neurons, which are organized in interconnected layers. 
+![alt text](https://github.com/David-SF2290/Deep-Learning/blob/master/Graph_Doc/Layers.JPG)
 
 ## Deep Learning 
 
