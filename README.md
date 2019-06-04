@@ -20,6 +20,9 @@ A neuron is a mathematical function that takes one or more input values, and out
 A neural network can have an indefinite number of neurons, which are organized in interconnected layers. 
 ![alt text](https://github.com/David-SF2290/Deep-Learning/blob/master/Graph_Doc/Layers.JPG)
 
+The following diagram demonstrates a 3-layer fully connected neural network with two hidden layers. 
+![alt text](https://github.com/David-SF2290/Deep-Learning/blob/master/Graph_Doc/Multi-layer.JPG)
+
 ## Deep Learning 
 
 
