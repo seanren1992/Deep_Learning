@@ -1,6 +1,5 @@
 # Deep Learning
-
-
+Concepts and applications of deep learning techniques and neural network architectures with PyTorch, Keras, and TensorFlow.
 <br/>
 
 ## Machine Learning 
@@ -123,9 +122,21 @@ model = models.vgg16(pretrained=True)
 
 
 ## Recurrent Neural Networks
+RNN is a type of neural network, which can process sequential data with variable length.
+![alt text](https://github.com/David-SF2290/Deep-Learning/blob/master/Graph_Doc/RNN.JPG)
 
 
+In the following diagram, we can see an unfolded, stacked RNN:
+![alt text](https://github.com/David-SF2290/Deep-Learning/blob/master/Graph_Doc/RNN2.JPG)
 
+**RNNs are not limited to processing fixed size inputs, they really expand the possibilities of what we can compute with neural networks, such as sequences of different lengths or images of varied sizes. The following are some combinations:**
+- One-to-one
+- One-to-many
+- Many-to-one
+- Many-to-many indirect
+- Many-to-many direct
+
+![alt text](https://github.com/David-SF2290/Deep-Learning/blob/master/Graph_Doc/RNN3.JPG)
 
 
 
