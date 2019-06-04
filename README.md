@@ -16,7 +16,8 @@
 
 ## Neural Networks
 
-
+A neuron is a mathematical function that takes one or more input values, and outputs a single numerical value
+![alt text](https://github.com/David-SF2290/Deep-Learning/blob/master/Graph_Doc/Neurons.JPG)
 
 
 
