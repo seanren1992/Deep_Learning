@@ -19,16 +19,16 @@
 
 ## Neural Networks
 
-A neuron is a mathematical function that takes one or more input values, and outputs a single numerical value
+**A neuron is a mathematical function that takes one or more input values, and outputs a single numerical value**
 ![alt text](https://github.com/David-SF2290/Deep-Learning/blob/master/Graph_Doc/Neurons.JPG)
 
-A neural network can have an indefinite number of neurons, which are organized in interconnected layers. 
+**A neural network can have an indefinite number of neurons, which are organized in interconnected layers.** 
 ![alt text](https://github.com/David-SF2290/Deep-Learning/blob/master/Graph_Doc/Layers.JPG)
 
-The following diagram demonstrates a 3-layer fully connected neural network with two hidden layers. 
+**The following diagram demonstrates a 3-layer fully connected neural network with two hidden layers.** 
 ![alt text](https://github.com/David-SF2290/Deep-Learning/blob/master/Graph_Doc/Multi-layer.JPG)
 
-The neurons and their connections form directed cyclic graphs. In such a graph, the information cannot pass twice from the same neuron (no loops) and it flows in only one direction, from the input to the output.
+**The neurons and their connections form directed cyclic graphs. In such a graph, the information cannot pass twice from the same neuron (no loops) and it flows in only one direction, from the input to the output.**
 ![alt text](https://github.com/David-SF2290/Deep-Learning/blob/master/Graph_Doc/Directed%20Cyclic%20Graphs.JPG)
 
 
@@ -42,9 +42,51 @@ The neurons and their connections form directed cyclic graphs. In such a graph, 
 - PyTorch
 
 Using Keras to classify handwritten digits： 
- - download the datasets using Keras:
+ - **download the datasets using Keras:**
 ```python
 from keras.datasets import mnist
+```
+- **Importing a few classes to use a feed-forward network:**
+```python
+from keras.models import Sequential
+from keras.layers.core import Dense, Activation
+from keras.utils import np_utils
+```
+- **Training and testing data:**
+```python
+(X_train, Y_train), (X_test, Y_test) = mnist.load_data()
+```
+- **Modifying the data to be able to use it:**
+```python
+X_train = X_train.reshape(60000, 784)
+X_test = X_test.reshape(10000, 784)
+```
+- **The labels indicate the value of the digit depicted in the images;**
+```python
+classes = 10
+Y_train = np_utils.to_categorical(Y_train, classes)
+Y_test = np_utils.to_categorical(Y_test, classes)
+```
+- **Setting the size of the input layer (the size of the MNIST images), the number of hidden neurons, the number of epochs to train the network, and the mini batch size:** 
+```python
+input_size = 784
+batch_size = 100
+hidden_neurons = 100
+epochs = 100
+```
+- **Applying the Sequential model:** 
+```python
+model = Sequential([
+    Dense(hidden_neurons, input_dim=input_size),
+    Activation('sigmoid'),
+    Dense(classes),
+    Activation('softmax')
+])
+```
+- **Cross-entropy and stochastic gradient descent:**
+```python
+model.compile(loss='categorical_crossentropy',
+metrics=['accuracy'], optimizer='sgd')
 ```
 
 ## Computer Vision 
