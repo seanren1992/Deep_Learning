@@ -40,7 +40,7 @@ Concepts and applications of deep learning techniques and neural network archite
 - Keras
 - PyTorch
 
-Using Keras to classify handwritten digits： 
+#### Using Keras to classify handwritten digits： 
  - **download the datasets using Keras:**
 ```python
 from keras.datasets import mnist
@@ -139,15 +139,24 @@ In the following diagram, we can see an unfolded, stacked RNN:
 ![alt text](https://github.com/David-SF2290/Deep-Learning/blob/master/Graph_Doc/RNN3.JPG)
 
 
-
 ## Reinforcement Learning
-
-
-
+- RL paradigms
+- RL as a Markov decision process
+- Finding optimal policies with Dynamic Programming
+- Monte Carlo methods
+- Temporal difference methods
+- Value function approximation
+- Experience replay
+- Q-learning in action
 
 ## Deep Reinforcement Learning
 
-
+- Genetic algorithms playing games
+- Deep Q-learning (DQN)
+- Policy gradients
+- Actor-critic methods
+- Monte Carlo tree search
+- AlphaZero
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
