@@ -98,7 +98,8 @@ The convolutional layer is the most important building block of a CNN. It consis
 ![alt text](https://github.com/David-SF2290/Deep-Learning/blob/master/Graph_Doc/CNN.JPG)
 
 
-**VGG with Keras, PyTorch, and TensorFlow**
+#### VGG with Keras, PyTorch, and TensorFlow
+
 - **Setting the weights parameter:**
 ```python
 # VGG16
