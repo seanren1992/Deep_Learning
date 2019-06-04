@@ -129,7 +129,7 @@ model = models.vgg16(pretrained=True)
 - **In the following diagram, we can see an unfolded, stacked RNN:**
 ![alt text](https://github.com/David-SF2290/Deep-Learning/blob/master/Graph_Doc/RNN2.JPG)
 
-#### RNNs are not limited to processing fixed size inputs, they really expand the possibilities of what we can compute with neural networks, such as sequences of different lengths or images of varied sizes. The following are some combinations:
+#### Recurrent Neural Networks are not limited to processing fixed size inputs, they really expand the possibilities of what we can compute with neural networks, such as sequences of different lengths or images of varied sizes. The following are some combinations:
 - One-to-one
 - One-to-many
 - Many-to-one
