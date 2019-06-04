@@ -1,5 +1,7 @@
 # Deep Learning
 
+![alt text](https://github.com/David-SF2290/Deep-Learning/blob/master/Graph_Doc/Machine%20Learning.JPG)
+
 ## Machine Learning 
 
 - **`Supervised learning`**: Supervised learning algorithms are a class of machine learning algorithms that use previously-labeled data to learn its features, so they can classify similar but unlabeled data.
