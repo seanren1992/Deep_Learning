@@ -88,10 +88,14 @@ model = Sequential([
 model.compile(loss='categorical_crossentropy',
 metrics=['accuracy'], optimizer='sgd')
 ```
+<br/> 
 
 ## Computer Vision 
 
+**Convolutional layers**
+The convolutional layer is the most important building block of a CNN. It consists of a set of filters (also known as kernels or feature detectors), where each filter is applied across all areas of the input data. A filter is defined by a set of learnable weights. 
 
+![alt text](https://github.com/David-SF2290/Deep-Learning/blob/master/Graph_Doc/CNN.JPG)
 
 
 
