@@ -145,7 +145,6 @@ In the following diagram, we can see an unfolded, stacked RNN:
 
 
 
-
 ## Deep Reinforcement Learning
 
 
