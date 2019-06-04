@@ -18,16 +18,16 @@ Concepts and applications of deep learning techniques and neural network archite
 
 ## Neural Networks
 
-**A neuron is a mathematical function that takes one or more input values, and outputs a single numerical value**
+- **A neuron is a mathematical function that takes one or more input values, and outputs a single numerical value**
 ![alt text](https://github.com/David-SF2290/Deep-Learning/blob/master/Graph_Doc/Neurons.JPG)
 
-**A neural network can have an indefinite number of neurons, which are organized in interconnected layers.** 
+- **A neural network can have an indefinite number of neurons, which are organized in interconnected layers.** 
 ![alt text](https://github.com/David-SF2290/Deep-Learning/blob/master/Graph_Doc/Layers.JPG)
 
-**The following diagram demonstrates a 3-layer fully connected neural network with two hidden layers.** 
+- **The following diagram demonstrates a 3-layer fully connected neural network with two hidden layers.** 
 ![alt text](https://github.com/David-SF2290/Deep-Learning/blob/master/Graph_Doc/Multi-layer.JPG)
 
-**The neurons and their connections form directed cyclic graphs. In such a graph, the information cannot pass twice from the same neuron (no loops) and it flows in only one direction, from the input to the output.**
+- **The neurons and their connections form directed cyclic graphs. In such a graph, the information cannot pass twice from the same neuron (no loops) and it flows in only one direction, from the input to the output.**
 ![alt text](https://github.com/David-SF2290/Deep-Learning/blob/master/Graph_Doc/Directed%20Cyclic%20Graphs.JPG)
 
 
