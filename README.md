@@ -94,7 +94,7 @@ metrics=['accuracy'], optimizer='sgd')
 **Convolutional layers:**
 The convolutional layer is the most important building block of a CNN. It consists of a set of filters (also known as kernels or feature detectors), where each filter is applied across all areas of the input data. A filter is defined by a set of learnable weights. 
 
-![alt text](https://github.com/David-SF2290/Deep-Learning/blob/master/Graph_Doc/CNN.JPG)
+![alt text](https://github.com/David-SF2290/Deep-Learning/blob/master/Graph_Doc/CV.JPG)
 
 
 #### VGG with Keras, PyTorch, and TensorFlow
