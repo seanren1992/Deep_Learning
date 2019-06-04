@@ -11,6 +11,8 @@
 - **`K-means`**: K-means is a clustering algorithm that groups the elements of a dataset into k distinct clusters.
 - **`Reinforcement learning`**: Reinforcement is about taking suitable action to maximize reward in a particular situation. 
 - **`Q-learning`**: Q-learning is an off-policy temporal-difference reinforcement learning algorithm. 
+<br/>
+
 
 ## Neural Networks
 
