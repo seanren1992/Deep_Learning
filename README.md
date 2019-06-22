@@ -1,5 +1,5 @@
 # Deep Learning
-Concepts and applications of deep learning techniques and neural network architectures with `PyTorch`, `Keras`, and `TensorFlow`.
+- **Concepts and applications of deep learning techniques and neural network architectures with `PyTorch`, `Keras`, and `TensorFlow`.**
 <br/>
 
 ## Machine Learning 
