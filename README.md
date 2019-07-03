@@ -157,6 +157,25 @@ model = models.vgg16(pretrained=True)
 - Monte Carlo tree search
 - AlphaZero
 
+## Python Code Samples
+
+- Language Modeling
+- CNN Keras.py
+- Computer Vision PyTorch.py
+- Convolutional Network.py
+- Deep Learning.py
+- Deep Reinforcement Learning.py
+- Keras.py
+- MNIST GANs Keras.py
+- MNIST VAE.py
+- Machine Learning.py
+- Neural Networks.py
+- Pytorch.py
+- Q-learning .py
+- RNN.py
+- VGG TensorFlow.py
+- VGG.py
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
