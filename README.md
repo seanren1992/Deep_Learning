@@ -1,6 +1,5 @@
 # Deep Learning
 - **Concepts and applications of deep learning techniques and neural network architectures with `PyTorch`, `Keras`, and `TensorFlow`.**
-![alt text](https://github.com/David-SF2290/Deep_Learning_Python/blob/master/Graph_Doc/Machine%20Learning.JPG)
 
 ## Machine Learning 
 
